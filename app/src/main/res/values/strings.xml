@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">photo gallery app</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile_section">Ashpreet Ahuja</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search">Search</string>
+</resources>
